@@ -1,10 +1,13 @@
-I have gone ahead and 
-Used semantic HTML elements
+The Horiseon Code Refractor project consists of increasing web accessibility standards for the Horiseon webpage via ensuring the following:
 
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* All links are functioning correctly.
+* Used proper semantic HTML elements.
+* Rework the CSS to make it more efficient by consolidating CSS selectors and properties.
+* Organizing them to follow the semantic structure of the HTML elements. 
+* Including comments before each element or section of the page.
+* Made sure the elements follow a logical structure independent of styling and positioning.
+* Added accessible alt attributes to the images.
+* Made sure heading attributes fall in sequential order.
+* Added a concise, descriptive title.
+
+This guarantees search engine optimization for the site. 
